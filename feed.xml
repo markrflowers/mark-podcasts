@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark's Weekly Briefings</title>
+    <link>https://markrflowers.github.io/mark-podcasts/</link>
+    <atom:link href="https://markrflowers.github.io/mark-podcasts/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Private feed for The Saturday Signal (energy), The Monday Ledger (markets) and The AI Crossover (AI in other industries). AI-generated with Claude and ElevenLabs. Not investment advice.</description>
+    <language>en-us</language>
+    <itunes:author>Mark's Weekly Briefings</itunes:author>
+    <itunes:image href="https://markrflowers.github.io/mark-podcasts/cover.jpg"/>
+    <image><url>https://markrflowers.github.io/mark-podcasts/cover.jpg</url><title>Mark's Weekly Briefings</title><link>https://markrflowers.github.io/mark-podcasts/</link></image>
+    <itunes:category text="News"><itunes:category text="Business News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <lastBuildDate>Sat, 28 Nov 2026 11:52:03 +0000</lastBuildDate>
+    <item>
+      <title>The Saturday Signal: Hormuz, APS Ruling, Permitting Bill</title>
+      <description>Oil posts its first weekly gain of November as Hormuz attacks continue, and OPEC+ meets amid a quota fight. The judge's recommendation lands in the APS rate case ahead of a December 17 vote, the Senate-passed permitting bill heads to the House, and we look at Lightning sales, sodium-ion costs and Europe's record-low gas storage. Script: https://docs.google.com/document/d/1e81-Uw3wNB1VJ7oWmZXkZ2jC3l5ik8cyV54iea7UuxQ/edit</description>
+      <itunes:summary>Oil posts its first weekly gain of November as Hormuz attacks continue, and OPEC+ meets amid a quota fight. The judge's recommendation lands in the APS rate case ahead of a December 17 vote, the Senate-passed permitting bill heads to the House, and we look at Lightning sales, sodium-ion costs and Europe's record-low gas storage. Script: https://docs.google.com/document/d/1e81-Uw3wNB1VJ7oWmZXkZ2jC3l5ik8cyV54iea7UuxQ/edit</itunes:summary>
+      <itunes:author>The Saturday Signal</itunes:author>
+      <enclosure url="https://markrflowers.github.io/mark-podcasts/episodes/The_Saturday_Signal_2026-11-28.mp3" length="12936926" type="audio/mpeg"/>
+      <guid isPermaLink="false">The_Saturday_Signal_2026-11-28.mp3</guid>
+      <pubDate>Sat, 28 Nov 2026 11:52:03 +0000</pubDate>
+      <itunes:duration>0:17:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The AI Crossover: Isomorphic's $5B, Device Proof, Bank AI Guardrails</title>
+      <description>Isomorphic Labs raises $5 billion and signs with MSD before any human trials; FDA clears practical imaging AI while CMS and ECRI push for real-world outcome evidence; banks and insurers put AI agents on a leash. Plus a hype check on claims that AI-discovered drugs succeed more often in trials. Script: https://docs.google.com/document/d/1vDl3xt-T5TUSvO4EGG5BSfNq_EJP79at96e0hIjeMAo/edit</description>
+      <itunes:summary>Isomorphic Labs raises $5 billion and signs with MSD before any human trials; FDA clears practical imaging AI while CMS and ECRI push for real-world outcome evidence; banks and insurers put AI agents on a leash. Plus a hype check on claims that AI-discovered drugs succeed more often in trials. Script: https://docs.google.com/document/d/1vDl3xt-T5TUSvO4EGG5BSfNq_EJP79at96e0hIjeMAo/edit</itunes:summary>
+      <itunes:author>The AI Crossover</itunes:author>
+      <enclosure url="https://markrflowers.github.io/mark-podcasts/episodes/The_AI_Crossover_2026-11-25.mp3" length="12198706" type="audio/mpeg"/>
+      <guid isPermaLink="false">The_AI_Crossover_2026-11-25.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 11:52:45 +0000</pubDate>
+      <itunes:duration>0:16:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Monday Ledger: Correction week: Nvidia, Anthropic IPO, AMD</title>
+      <description>The S&amp;P 500's worst week since April 2025: why the market sold good news, a close look at Nvidia, Anthropic's IPO and AMD, the rush into defensive stocks, a private-equity mega-deal that fell apart, and a holiday-shortened week ahead. Script: https://docs.google.com/document/d/1TS6hTDcHWDwDszFd7Xmksa72EmDZnLGFXGhYi4Iv7N8/edit</description>
+      <itunes:summary>The S&amp;P 500's worst week since April 2025: why the market sold good news, a close look at Nvidia, Anthropic's IPO and AMD, the rush into defensive stocks, a private-equity mega-deal that fell apart, and a holiday-shortened week ahead. Script: https://docs.google.com/document/d/1TS6hTDcHWDwDszFd7Xmksa72EmDZnLGFXGhYi4Iv7N8/edit</itunes:summary>
+      <itunes:author>The Monday Ledger</itunes:author>
+      <enclosure url="https://markrflowers.github.io/mark-podcasts/episodes/The_Monday_Ledger_2026-11-23.mp3" length="14260707" type="audio/mpeg"/>
+      <guid isPermaLink="false">The_Monday_Ledger_2026-11-23.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 01:52:46 +0000</pubDate>
+      <itunes:duration>0:19:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
